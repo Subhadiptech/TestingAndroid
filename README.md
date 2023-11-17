@@ -1,7 +1,5 @@
 # Testing in Android
 
-### Personal Notes
-
 ##### Why we require testing in android:
 - Helps catching bugs
 - To ensure clean and modular code
