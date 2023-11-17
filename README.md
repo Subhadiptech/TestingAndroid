@@ -9,7 +9,7 @@
 - Logic testing - JUnit
 - Android framework testing - Intrumentation Test (UI test and No UI test)
 
-##### dependencies types:
+##### Dependencies types:
 - testImplementation
 - androidTestImplementation
 

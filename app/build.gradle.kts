@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ersubhadip.unittestingdemo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ersubhadip.unittestingdemo"
