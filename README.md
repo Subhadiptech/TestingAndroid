@@ -15,3 +15,14 @@
 - testImplementation
 - androidTestImplementation
 
+##### Unit Testing structure
+
+```
+@Test
+fun testAdd(){
+  //Arrange
+  //Act
+  //Assert
+}
+```
+
